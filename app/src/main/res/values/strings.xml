@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LionQuizHub</string>
+    <string name="title_activity_tabs">Tabs</string>
+    <string name="tab_text_1">Signup</string>
+    <string name="tab_text_2">Login</string>
+    <string name="tab_text_3">Chats</string>
+</resources>
